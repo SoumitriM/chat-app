@@ -1,0 +1,14 @@
+.title {
+  color: rgb(104, 31, 126);
+}
+.subTitle {
+  color: rgba(243, 224, 227, 0.911);
+  text-shadow: rgb(104, 31, 126);
+}
+.btn-outline-success {
+  color: white;
+}
+body {
+  line-height: 0.7;
+  font-family: Arial, Helvetica, sans-serif;
+}
